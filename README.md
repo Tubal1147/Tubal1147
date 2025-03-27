@@ -17,3 +17,15 @@
 </div>
 
 ###
+
+<div align="left">
+  <a href="https://discord.gg/GuF8ay4y8t" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Mail: tubal1147@tuta.io</p>
+
+###
